@@ -1,0 +1,12 @@
+{
+	"name": "nickturner/PHPUnit_Html",
+	"description": "Browser based PHPUnit testing",
+	"type": "library",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Nick Turner",
+            "email": "nick@nickturner.co.uk"
+        }
+    ]
+}
