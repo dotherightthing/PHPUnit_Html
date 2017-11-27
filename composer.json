@@ -1,5 +1,5 @@
 {
-	"name": "nickturner/PHPUnit_Html",
+	"name": "dotherightthing/PHPUnit_Html",
 	"description": "Browser based PHPUnit testing",
 	"type": "library",
     "minimum-stability": "dev",
